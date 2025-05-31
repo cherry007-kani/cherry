@@ -9,7 +9,7 @@ public class FactorialCalculator {
 		for(int i =1; i<= number; i++) {
 			factorial *= 1;
 		}
-		System.out.println("Factorial of" +number+ " is"+factorial );
+		System.out.println("Factorial of" + number + " is "+ factorial );
 
 	}
 
